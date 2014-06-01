@@ -1,19 +1,9 @@
 {
-  "name": "nicklagrow.com",
+  "name": "nicklagrow",
+  "description": "Nick LaGrow's portfolio",
   "version": "0.0.1",
   "private": true,
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
-    "express": "3.4.6",
-    "jade": "*",
-    "ember": "~0.9"
-  },
-  "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-jshint": "~0.6.3",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt-contrib-uglify": "~0.2.2"
+    "express": "3.x"
   }
 }
